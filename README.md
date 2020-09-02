@@ -1,6 +1,6 @@
 # use-state-with-effect
 
-Attach an effect callback to `useState` updates.
+Attach effect callbacks to `useState` updates.
 
 # Motivation
 
