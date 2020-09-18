@@ -3,6 +3,11 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janovekj/use-state-with-effect.git"
+  },
+  "homepage": "https://github.com/janovekj/use-state-with-effect#readme",
   "files": [
     "dist",
     "src"
